@@ -1,0 +1,10 @@
+nuke_projects: <job_path>/Design/Production/<spot>/Comp/<shot>/Comps/Nuke
+nuke_renders: <job_path>/Design/Production/<spot>/Comp/<shot>/Renders/Nuke
+nuke_prerenders: <job_path>/Design/Production/<spot>/Comp/<shot>/Renders/Nuke/Prerenders
+
+cg_renders: <job_path>/Design/Production/<spot>/Comp/<shot>/Elements/CG
+plates: <job_path>/Design/Production/<spot>/Comp/<shot>/Elements/Footage/plates
+fx: <job_path>/Design/Production/<spot>/Comp/<shot>/Elements/Footage/FX
+
+3D_layout_project: <job_path>/Design/Production/<spot>/CG/04_shots/<shot>/01_layout
+3D_layout_project: <job_path>/Design/Production/<spot>/CG/04_shots/<shot>/01_layout
